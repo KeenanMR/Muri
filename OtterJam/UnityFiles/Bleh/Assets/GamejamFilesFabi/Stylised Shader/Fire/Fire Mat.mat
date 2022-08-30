@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fire Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 0dada94830d76474fb091d5588a81b2f, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_7a286f8451384a24852054ae803ac5a3: -0.6
+    - Vector1_9762e0ab12ed422f9a2a2286f911b3bc: 1.6
+    - Vector1_aae11aad5bc9474280c8cbf28ee41b97: 1.05
+    - Vector1_c910b8acffff411096a4d0e69ba5111c: 0.7
+    m_Colors:
+    - Color_d7cb709dea514ca39a275c42f46bfe71: {r: 0.745283, g: 0.14382, b: 0, a: 0}
+    - Vector2_a84f3c0fd39c4dbdac3f3bbc88b428eb: {r: 2, g: 2, b: 0, a: 0}
+  m_BuildTextureStacks: []
